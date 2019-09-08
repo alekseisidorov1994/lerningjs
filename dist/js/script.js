@@ -1,20 +1,5 @@
 'use strict';
 
-
-let obj = {
-    name: "John",
-    age: 25,
-    isMarried: false,
-    haveCar: true
-};
-let arr = ['plum.png','orang.jpg', 'apple.bmp'];
-console.log(arr);
-// let answer = prompt("are you ready?", " ");
-
-let incr = 10;
-let decr = 10;
-
-
-console.log(incr++);
-console.log(decr--);
-console.log("2" === 2);
+let money = prompt("Ваш бюджет в месяц?");
+let time = prompt("Введите дату в формате YYYY-MM-DD");
+console.log(asd)
